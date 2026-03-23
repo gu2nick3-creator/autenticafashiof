@@ -113,7 +113,7 @@ export default function Home() {
             <div className="mx-auto flex max-w-[330px] flex-col items-center text-center text-white md:mx-0 md:max-w-2xl md:items-start md:text-left">
               <p className="mb-4 text-[11px] font-medium uppercase tracking-[0.45em] text-white/80 md:text-xs">Vitrine em destaque</p>
               <h2 className="font-display text-4xl font-semibold uppercase tracking-[0.18em] md:text-6xl lg:text-7xl">Autêntica</h2>
-              <p className="mt-4 max-w-xl text-lg font-light leading-relaxed text-white/90 md:text-2xl">A vitrine principal continua ativa com banners girando mesmo sem produtos mock.</p>
+              <p className="mt-4 max-w-xl text-lg font-light leading-relaxed text-white/90 md:text-2xl">Estilo e Conforto para Todos os Momentos.</p>
               <Link to="/loja" className="mt-8 inline-flex min-h-12 items-center justify-center bg-[#E2A12A] px-8 text-base font-medium text-white transition-opacity hover:opacity-90 md:px-10 md:text-lg">Ver Coleção</Link>
             </div>
           </ScrollReveal>
